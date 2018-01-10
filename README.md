@@ -25,12 +25,11 @@
 （科学技術振興機構バイオサイエンスデータベースセンター ／ 情報・システム研究機構 データサイエンス共同利用基盤施設 ライフサイエンス統合データベースセンター)  
 
 
-13:00～15:00 「[パスウェイデータベースおよびプロテオームデータベースの紹介](https://github.com/AJACS-training/AJACS68/blob/master/02_okuda/)」   
- 奥田 修二郎  
+13:00～15:00 「[パスウェイデータベースおよびプロテオームデータベースの紹介](https://github.com/AJACS-training/AJACS68/blob/master/02_okuda/)」  奥田 修二郎  
 （新潟大学大学院医歯学総合研究科）
 
 
-15:10～17:10 「[遺伝子発現DBをはじめとした公共オミックスDBの使い方](https://github.com/AJACS-training/AJACS68/blob/master/03_bono/)」  
+15:10～17:10 「[遺伝子発現DBをはじめとした公共オミックスDBの使い方](https://github.com/AJACS-training/AJACS68/blob/master/03_bono/)」  
 坊農 秀雅  
 (情報・システム研究機構 データサイエンス共同利用基盤施設 ライフサイエンス統合データベースセンター)
 
@@ -41,6 +40,6 @@
 （情報・システム研究機構国立遺伝学研究所DDBJセンター)  
 
 
-13:30～16:30 「[NGSデータから新たな知識を導出するためのデータ解析リテラシー](https://github.com/AJACS-training/AJACS68/blob/master/05_ozaki/)」    
- 尾崎 遼  
+13:30～16:30 「[NGSデータから新たな知識を導出するためのデータ解析リテラシー](https://github.com/AJACS-training/AJACS68/blob/master/05_ozaki/)」  
+尾崎 遼  
 （理化学研究所情報基盤センター）
