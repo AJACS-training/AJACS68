@@ -20,12 +20,12 @@
 
 ### プログラム
 #### 1月16日(火)
-10:05～11:30 「[NBDCの紹介とNBDCが提供するサービス](https://github.com/AJACS-training/AJACS68/blob/master/01_minowa/)」  
+10:05～11:30 「[NBDCの紹介とNBDCが提供するサービス](https://github.com/AJACS-training/AJACS68/blob/master/01_minowa/)」    
 箕輪 真理  
 （科学技術振興機構バイオサイエンスデータベースセンター ／ 情報・システム研究機構 データサイエンス共同利用基盤施設 ライフサイエンス統合データベースセンター)  
 
 
-13:00～15:00 「[パスウェイデータベースおよびプロテオームデータベースの紹介](https://github.com/AJACS-training/AJACS68/blob/master/02_okuda/)」  
+13:00～15:00 「[パスウェイデータベースおよびプロテオームデータベースの紹介](https://github.com/AJACS-training/AJACS68/blob/master/02_okuda/)」   
  奥田 修二郎  
 （新潟大学大学院医歯学総合研究科）
 
@@ -36,11 +36,11 @@
 
 
 #### 1月17日(火)
-10:00～12:00 「[次世代シークエンスデータベースの紹介と使い方](https://github.com/AJACS-training/AJACS68/blob/master/04_kodama/)」  
+10:00～12:00 「[次世代シークエンスデータベースの紹介と使い方](https://github.com/AJACS-training/AJACS68/blob/master/04_kodama/)」    
 児玉 悠一  
 （情報・システム研究機構国立遺伝学研究所DDBJセンター)  
 
 
-13:30～16:30 「[NGSデータから新たな知識を導出するためのデータ解析リテラシー](https://github.com/AJACS-training/AJACS68/blob/master/05_ozaki/)」  
+13:30～16:30 「[NGSデータから新たな知識を導出するためのデータ解析リテラシー](https://github.com/AJACS-training/AJACS68/blob/master/05_ozaki/)」    
  尾崎 遼  
 （理化学研究所情報基盤センター）
