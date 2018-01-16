@@ -48,7 +48,7 @@
     - 遠慮は無用です(そのための講習会です!)。おいてけぼりは楽しくありません。
 - 実験的な試みとしてWeb上で匿名で質問・コメントできるフォームを用意してみました。
   - [講師用](https://docs.google.com/presentation/d/19CsrlyrT1hdrmPVnS4R7uUveOgHfN5IqPK-kt8WLCHw/edit?usp=sharing)
-  - [受講者質問用フォーム](https://goo.gl/slides/yex8d8)(右クリックから「新しいタブで開く」推奨)
+  - [受講者質問用フォーム](https://goo.gl/slides/jnrta2)(右クリックから「新しいタブで開く」推奨)
 
 ----
 
