@@ -1,6 +1,6 @@
 # NGSデータから新たな知識を導出するためのデータ解析リテラシー
 
-This contents were originated and cloned from https://github.com/yuifu/ajacs68. 
+This contents were originated and cloned from [https://github.com/yuifu/ajacs68](https://github.com/yuifu/ajacs68). 
 
 AJACS68 (AJACS浜松) [https://events.biosciencedbc.jp/training/ajacs68](https://events.biosciencedbc.jp/training/ajacs68)
 January 17, 2018
